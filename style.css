@@ -18,7 +18,7 @@ body {
     }
     section {
       padding: 40px 20px;
-      max-width: 800px;
+      width: 80%;
       margin: auto;
     }
     .card {
@@ -40,4 +40,10 @@ body {
   border-radius: 50%;      /* okrągłe */
   box-shadow: 0 0 15px rgba(0,0,0,0.6);
   margin-bottom: 20px;
+}
+.presentation{
+    width: 1000px;
+    height: 900px;
+    margin-left: 22%;
+    margin-right: 22%;
 }
